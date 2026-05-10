@@ -74,6 +74,23 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [anchor-x402](https://anchor-x402.com/)
+Nine x402-paid commodity services for AI agents on Base + Solana mainnet — dual-chain hash anchoring, OFAC sanctions screening, signed decision attestation, tx decode, ENS/SNS resolution, USD price, calldata decode, datetime parser, and bundled wallet intelligence. Pay per call in USDC, no API keys.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://anchor-x402.com/)
+- [GitHub](https://github.com/hypeprinter007-stack/anchor-x402)
+- [API Docs](https://api.anchor-x402.com/docs)
+- [MCP Server (npm)](https://www.npmjs.com/package/anchor-x402-mcp)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
