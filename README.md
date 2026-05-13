@@ -75,7 +75,7 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 
 ## [anchor-x402](https://anchor-x402.com/)
-Nine x402-paid commodity services for AI agents on Base + Solana mainnet — dual-chain hash anchoring, OFAC sanctions screening, signed decision attestation, tx decode, ENS/SNS resolution, USD price, calldata decode, datetime parser, and bundled wallet intelligence. Pay per call in USDC, no API keys.
+Sixteen x402-paid services for AI agents on Base + Solana mainnet — nine commodity primitives (dual-chain hash anchoring, OFAC sanctions screening, signed decision attestation, tx decode, ENS/SNS resolution, USD price, calldata decode, datetime parser, bundled wallet intel), one async due-diligence investigator (`/v1/investigate`, $7.77), one verifiable signed RNG (`/v1/roll`), and five universal LLM endpoints (roast, oracle with anchored verdict, tldr, aura, grade). Pay per call in USDC, no API keys.
 
 <details>
 
